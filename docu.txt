@@ -1,0 +1,131 @@
+http://schema.org/Photograph
+https://www.schemaapp.com/tools/jsonld-schema-generator/Photograph/
+
+
+<script type='application/ld+json'>
+{
+	"@context": "http://schema.org/",
+	"@type": "Photograph",
+	"commentCount": "comment count",
+	"copyrightYear": "Copyright year",
+	"creator": "Persoon",
+	"dateCreated": "EXIF",
+	"datePublished": "Postdate",
+	"discussionUrl": "Connonical self",
+	"fileFormat": "mime-type",
+	"genre": "category",
+	"headline": "post Title",
+	"isAccessibleForFree": "true",
+	"isFamilyFriendly": "True",
+	"keywords": "Post tags",
+	"license": "url copyright page",
+	"thumbnailUrl": "URL thumbnail",
+	"alternateName": "post title",
+	"description": "post Decription",
+	"mainEntityOfPage": "canonical url"
+}
+</script>
+
+WP_Post Object
+(
+    [ID] => 4985
+    [post_author] => 1
+    [post_date] => 2018-06-16 08:30:00
+    [post_date_gmt] => 2018-06-16 06:30:00
+    [post_content] => 
+    [post_title] => Florals #1/3
+    [post_excerpt] => 
+    [post_status] => future
+    [comment_status] => open
+    [ping_status] => open
+    [post_password] => 
+    [post_name] => florals-1-3
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2018-05-19 21:11:33
+    [post_modified_gmt] => 2018-05-19 19:11:33
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => https://www.funsite.eu/?p=4985
+    [menu_order] => 0
+    [post_type] => post
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+
+Array
+(
+    [width] => 2048
+    [height] => 1370
+    [file] => 2018/05/dsc00378.darktable.2048-sharp.jpg
+    [sizes] => Array
+        (
+            [thumbnail] => Array
+                (
+                    [file] => dsc00378.darktable.2048-sharp-150x150.jpg
+                    [width] => 150
+                    [height] => 150
+                    [mime-type] => image/jpeg
+                )
+
+            [medium] => Array
+                (
+                    [file] => dsc00378.darktable.2048-sharp-590x395.jpg
+                    [width] => 590
+                    [height] => 395
+                    [mime-type] => image/jpeg
+                )
+
+            [medium_large] => Array
+                (
+                    [file] => dsc00378.darktable.2048-sharp-768x514.jpg
+                    [width] => 768
+                    [height] => 514
+                    [mime-type] => image/jpeg
+                )
+
+            [large] => Array
+                (
+                    [file] => dsc00378.darktable.2048-sharp-1024x685.jpg
+                    [width] => 1024
+                    [height] => 685
+                    [mime-type] => image/jpeg
+                )
+
+            [tiled-thumbnails] => Array
+                (
+                    [file] => dsc00378.darktable.2048-sharp-570x570.jpg
+                    [width] => 570
+                    [height] => 570
+                    [mime-type] => image/jpeg
+                )
+
+        )
+
+    [image_meta] => Array
+        (
+            [aperture] => 2.8
+            [credit] => G. Hoogterp
+            [camera] => SLT-A65V
+            [caption] => 
+            [created_timestamp] => 1526316873
+            [copyright] => Copyright G. Hoogterp
+            [focal_length] => 90
+            [iso] => 100
+            [shutter_speed] => 0.00125
+            [title] => Florals #1/3
+            [orientation] => 1
+            [keywords] => Array
+                (
+                    [0] => Florals
+                    [1] => the Netherlands
+                    [2] => Nature
+                    [3] => Lauwersoog
+                    [4] => Spring
+                )
+
+        )
+
+)
